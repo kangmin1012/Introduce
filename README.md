@@ -16,9 +16,7 @@
 
 지금까지 참여한 프로젝트에 대한 내용입니다.
 
-<img src ="https://user-images.githubusercontent.com/55642709/118575243-f9f32f00-b7c0-11eb-8d55-6f77505003ee.png" width ="150" height ="150">
-<img src ="https://user-images.githubusercontent.com/55642709/118575516-9fa69e00-b7c1-11eb-82fe-e1d8a7a38280.png" width ="150" height = "150">
-<img src = "https://user-images.githubusercontent.com/55642709/118575643-ee543800-b7c1-11eb-8a57-e0444e2e6245.jpeg" width ="150" height = "150"/>
+<img src ="https://user-images.githubusercontent.com/55642709/118575243-f9f32f00-b7c0-11eb-8d55-6f77505003ee.png" width ="280"> <img src ="https://user-images.githubusercontent.com/55642709/118575516-9fa69e00-b7c1-11eb-82fe-e1d8a7a38280.png" width ="280"> <img src = "https://user-images.githubusercontent.com/55642709/118575643-ee543800-b7c1-11eb-8a57-e0444e2e6245.jpeg" width ="280">
 
 ## 활동
 
