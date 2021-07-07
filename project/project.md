@@ -20,4 +20,4 @@
 ## 생글
 > ### 생각을 글로 자유롭게, 생활 속 글짓기 습관
 - 기간 : 2020.09 ~ 2021.04
-- 프로젝트 gitHub : https://github.com/SangleProject/Sangle_Android/tree/develop
+- 프로젝트 gitHub : https://github.com/SangleProject/Sangle_Android
